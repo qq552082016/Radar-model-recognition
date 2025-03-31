@@ -3,6 +3,7 @@ Original Implementation: https://github.com/AIML-UESTC/ZhixinXu-2025
 
 The complete dataset and pre trained weights can be downloaded from this link:
 https://pan.baidu.com/s/17OmwKUtoTOtoLvSJFDKhtw?pwd=2vjt
+Extract the weights folder directly to the project path
 
 ## 闭集识别
 - Train
