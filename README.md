@@ -1,5 +1,5 @@
 # 开放环境下的电磁目标型号识别研究
-- Original Implementation: https://github.com/AIML-UESTC/ZhixinXu-2025
+- Original Implementation: https://github.com/qq552082016/Radar-model-recognition/tree/main
 
 - The complete dataset and pre trained weights can be downloaded from this link:
 https://pan.baidu.com/s/17OmwKUtoTOtoLvSJFDKhtw?pwd=2vjt
